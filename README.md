@@ -58,6 +58,9 @@ Execute this single command in the rescue system terminal:
 bash <(curl -sSL https://raw.githubusercontent.com/pschaufelberger/proxmox-hetzner/refs/heads/main/scripts/pve-install.sh)
 ```
 
+**SELECT - ethn073845 long interface name in hetzner!**
+
+
 The script will:
 - Download the latest Proxmox VE ISO
 - Create an auto-installation configuration
@@ -130,4 +133,5 @@ After installation completes:
 
 
 This project is licensed under the [MIT License](LICENSE).
+
 
